@@ -1,0 +1,19 @@
+{
+  "name": "lab03",
+  "version": "1.0.0",
+  "description": "Lab 03",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rAVINDUpRABASHWARA/Lab03.git"
+  },
+  "author": "Neo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rAVINDUpRABASHWARA/Lab03/issues"
+  },
+  "homepage": "https://github.com/rAVINDUpRABASHWARA/Lab03#readme"
+}
